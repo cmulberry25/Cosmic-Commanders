@@ -5,30 +5,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Vision](#vision)
-- [Strategic Messaging](#strategic-messaging)
-- [Solution Scope](#solution-scope)
-- [Capability Model](#capability-model)
-- [Bill of Materials](#bill-of-materials)
-- [Reference Architecture](#reference-architecture)
-- [Runtime Service Sequence](#runtime-service-sequence)
-- [Content Supply Chain Sequence](#content-supply-chain-sequence)
-- [Service-to-Capability Mapping](#service-to-capability-mapping)
-- [Key Architecture Decisions](#key-architecture-decisions)
-- [Commercial and Technical Value](#commercial-and-technical-value)
-- [Functional View](#functional-view)
-- [Non-Functional Considerations](#non-functional-considerations)
-- [Assumptions and Dependencies](#assumptions-and-dependencies)
-- [Risks and Open Questions](#risks-and-open-questions)
-- [Suggested Repository Structure](#suggested-repository-structure)
-- [Next Steps](#next-steps)
-- [Glossary](#glossary)
-
----
-
 ## Overview
 
 **Cosmic Invaders** is a shared, spatial AR combat experience for **ThinkReality A3** where players see and battle alien invaders in the real world using gesture, gaze, and hand-driven interactions.
