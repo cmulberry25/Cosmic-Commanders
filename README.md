@@ -93,7 +93,7 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 
 ---
 
-## Bill of Materials
+## Build Structure
 
 ### Extension Layer
 
