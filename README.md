@@ -35,7 +35,7 @@
 
 This project discovery defines a **reference application architecture** that brings together:
 
-- **ThinkReality / partner XR SDKs**
+- **ThinkReality / Partner SDKs**
 - **OpenXR**
 - **Unity XR Interaction Toolkit**
 - **Unity client gameplay runtime**
