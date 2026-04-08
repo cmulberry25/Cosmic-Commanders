@@ -7,7 +7,7 @@
 
 ## Overview
 
-**Cosmic Invaders** is a shared, spatial AR combat experience for **ThinkReality A3** where players see and battle alien invaders in the real world using gesture, gaze, and hand-driven interactions.
+**Cosmic Invaders** is a shared, spatial AR battle-royal inspired experience for **ThinkReality A3 AR glasses** where players see and battle alien invaders outside in the real world using gesture, gaze, and hand-driven interactions.
 
 This project discovery defines a **reference application architecture** that brings together:
 
