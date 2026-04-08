@@ -53,6 +53,7 @@ The architecture is intentionally separated into three planes:
 ## Vision
 
 Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 that demonstrates:
+![Uploading download (1).png…]()
 
 - immersive spatial gameplay
 - synchronized shared-world encounters
