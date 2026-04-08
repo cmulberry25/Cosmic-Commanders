@@ -142,7 +142,7 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 
 ## Bill of Materials
 
-### ThinkReality A3 Client Runtime
+### Unity 6.2 Editor
 
 - **Partner SDKs / ThinkReality SDK**
 - **OpenXR**
