@@ -18,10 +18,10 @@ This project discovery defines a **reference application architecture** that bri
 - **Unity Cloud Services**
 - **Digital content supply chain tooling**
 
-The architecture is intentionally separated into three planes:
+The architecture is intentionally built upon three essential building blocks:
 
 1. **ThinkReality A3 Client Runtime**
-2. **Unity Cloud Services**
+2. **Unity Cloud Integrated Services**
 3. **Content Supply Chain**
 
 ---
