@@ -119,7 +119,7 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 
 ## Bill of Materials
 
-### Unity 6.2 Editor
+### Extension Layer
 
 - **Partner SDKs / ThinkReality SDK**
 - **OpenXR**
@@ -128,7 +128,7 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 - **Gameplay Runtime**
 - **Session Runtime**
 
-### Unity Cloud Services
+### Service Layer
 
 - **Authentication**
 - **Remote Config**
@@ -141,7 +141,7 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 - **Unity Analytics**
 - **Cloud Content Delivery**
 
-### Content Supply Chain
+### Content Layer
 
 - **Unity Asset Manager**
 - **Unity Version Control**
@@ -153,6 +153,4 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 ---
 
 ## Reference Architecture
-
-### One-Page Reference Architecture Diagram
 ![3  Reference Architectures - Cosmic Commanders Simplified Reference Architecture](https://github.com/user-attachments/assets/460b0b71-4611-4803-9814-07f58631a807)
